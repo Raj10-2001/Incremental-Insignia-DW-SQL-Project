@@ -198,7 +198,6 @@ use InsigniaDW;
 SELECT COUNT(*) AS SourceRows FROM Insignia_staging_copy;
 SELECT COUNT(*) AS DestinationRows FROM SalesFact;
 
-select * from ['Insignia_staging 2$']
 
 
 
